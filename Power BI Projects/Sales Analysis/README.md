@@ -15,4 +15,4 @@ Regional Drill-Down: Detailed analysis and forecasting at the region, state, and
 Results and Insights:
 Highly Interactive Power BI Dashboard: The Power BI dashboard offers a highly interactive experience, allowing users to drill down into sales and orders data at various levels, including year, month, region, state, and city. This flexibility enables targeted analysis and valuable insights.
 
-![Sales Trends Over Time](SalesDashboard.png)
+![Sales Trends Over Time](images/SalesDashboard.png)
